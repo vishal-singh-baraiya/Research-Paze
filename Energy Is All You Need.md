@@ -1,8 +1,10 @@
 # Energy Is All You Need
 
-# Gravity as a Consequence of Energy Conservation
+## Gravity as a Consequence of Energy Conservation
 
-## A Framework for Understanding Gravitational Phenomena
+### Vishal Singh Baraiya  
+*Independent Researcher*  
+[realvixhal@gmail.com](mailto:realvixhal@gmail.com)  
 
 ## Abstract
 
