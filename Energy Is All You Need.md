@@ -497,9 +497,9 @@ which matches observations without requiring the extreme fine-tuning needed in s
 Our theory predicts identical results to GR for standard tests of time dilation, providing validation of the basic framework. These include:
 
 1. **Pound-Rebka Experiment**: Measures the frequency shift of gamma rays over a vertical distance. Our prediction matches the observed fractional frequency shift of  
-   $$
-   \frac{\Delta \nu}{\nu} = \frac{gh}{c^2} \approx 2.5 \times 10^{-15} \quad \text{for } h = 22.5 \, \text{m}.
-   $$
+   
+   $$\frac{\Delta \nu}{\nu} = \frac{gh}{c^2} \approx 2.5 \times 10^{-15} \quad \text{for } h = 22.5 \, \text{m}$$
+  
 
 2. **GPS Time Corrections**: The Global Positioning System must account for gravitational time dilation of approximately 45 microseconds per day for satellites at 20,200 km altitude. Our framework predicts this exact correction.
 
