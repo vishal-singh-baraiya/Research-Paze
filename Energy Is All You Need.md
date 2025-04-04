@@ -1,4 +1,8 @@
-# Gravity as a Consequence of Energy Conservation: A Framework for Understanding Gravitational Phenomena
+# Energy Is All You Need
+
+# Gravity as a Consequence of Energy Conservation
+
+## A Framework for Understanding Gravitational Phenomena
 
 ## Abstract
 
