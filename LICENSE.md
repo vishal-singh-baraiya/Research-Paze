@@ -15,5 +15,4 @@ You may do so in any reasonable manner, but not in any way that suggests the aut
 
 **Author**: Vishal Singh Baraiya  
 **License URL**: https://creativecommons.org/licenses/by/4.0/  
-**Disclaimer**: This license applies only to the content of the paper/document.  
-For any associated code, refer to the separate software license in this repository (e.g., MIT or Apache 2.0).
+**Disclaimer**: This license applies only to the content of the paper/document.
