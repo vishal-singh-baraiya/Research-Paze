@@ -212,17 +212,16 @@ $$
 Solving for $\alpha$ in terms of $E_{\text{extra}}$:
 
 
-$$
-\frac{E_{\text{extra}}}{E_K} = \frac{1}{\sqrt{1 - \alpha}} - 1 \\
 
-1 + \frac{E_{\text{extra}}}{E_K} = \frac{1}{\sqrt{1 - \alpha}} \\
+$\frac{E_{\text{extra}}}{E_K} = \frac{1}{\sqrt{1 - \alpha}} - 1 \$
 
-\sqrt{1 - \alpha} = \frac{1}{1 + \frac{E_{\text{extra}}}{E_K}} \\
+$1 + \frac{E_{\text{extra}}}{E_K} = \frac{1}{\sqrt{1 - \alpha}} \$
 
-1 - \alpha = \frac{1}{\left(1 + \frac{E_{\text{extra}}}{E_K}\right)^2} \\
+$\sqrt{1 - \alpha} = \frac{1}{1 + \frac{E_{\text{extra}}}{E_K}} \$
 
-\alpha = 1 - \frac{1}{\left(1 + \frac{E_{\text{extra}}}{E_K}\right)^2}
-$$
+$1 - \alpha = \frac{1}{\left(1 + \frac{E_{\text{extra}}}{E_K}\right)^2} \$
+
+$\alpha = 1 - \frac{1}{\left(1 + \frac{E_{\text{extra}}}{E_K}\right)^2}$
 
 
 
