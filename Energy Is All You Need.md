@@ -80,7 +80,7 @@ To quantify energy requirements in curved spacetime, we must account for both th
 Without specifying the metric a priori, we can express the energy requirement for motion in curved spacetime in terms of the additional energy that would be needed in the absence of time dilation:
 
 $$
-E_{\text{curved, no\:dilation}} = E_K \times \frac{L_{\text{proper}}}{L_{\text{coordinate}}}
+E_{\text{curved, no dilation}} = E_K \times \frac{L_{\text{proper}}}{L_{\text{coordinate}}}
 $$
 
 Where $L_{\text{proper}}$ is the proper distance and $L_{\text{coordinate}}$ is the coordinate distance between two points.
@@ -97,7 +97,7 @@ For energy conservation to hold, the actual energy in curved spacetime must equa
 We begin by quantifying how spacetime curvature affects proper distances. In a spherically symmetric gravitational field, the proper distance element for radial motion can be expressed as:
 
 $$
-dl_{\text{proper}} = f(r) \, dr
+dl_{\text{proper}} = f(r) \ dr
 $$
 
 where $f(r) > 1$ is a function describing spatial curvature, and $dr$ is the coordinate distance element. The form of $f(r)$ will be determined by physical constraints rather than assumed from GR.
@@ -105,7 +105,7 @@ where $f(r) > 1$ is a function describing spatial curvature, and $dr$ is the coo
 For a particle traveling from $r_1$ to $r_2$, the total proper distance is:
 
 $$
-L_{\text{proper}} = \int_{r_1}^{r_2} f(r) \, dr
+L_{\text{proper}} = \int_{r_1}^{r_2} f(r) \ dr
 $$
 
 while the coordinate distance is simply:
@@ -117,13 +117,13 @@ $$
 If time flowed uniformly (no time dilation), a particle maintaining constant coordinate velocity $v = dr/dt$ would require additional energy proportional to the increased distance:
 
 $$
-E_{\text{curved, no\:dilation}} = E_K \times \frac{L_{\text{proper}}}{L_{\text{coord}}}
+E_{\text{curved, no dilation}} = E_K \times \frac{L_{\text{proper}}}{L_{\text{coord}}}
 $$
 
 For a small displacement where $f(r)$ is approximately constant:
 
 $$
-E_{\text{curved, no\:dilation}} = E_K \times f(r)
+E_{\text{curved, no dilation}} = E_K \times f(r)
 $$
 
 This represents the energy that would be required without time dilation, which would violate energy conservation since the particle started with energy $E_K$.
@@ -139,13 +139,13 @@ $$
 This is only possible if the proper time experienced by the particle adjusts to compensate for the increased proper distance. If proper time $\tau$ runs slower than coordinate time $t$ by a factor $\gamma_t = dt/d\tau$, then:
 
 $$
-E_{\text{curved, actual}} = \frac{E_{\text{curved, no\:dilation}}}{\gamma_t} = E_K
+E_{\text{curved, actual}} = \frac{E_{\text{curved, no dilation}}}{\gamma_t} = E_K
 $$
 
 This gives us:
 
 $$
-\gamma_t = \frac{E_{\text{curved, no\:dilation}}}{E_K} = f(r)
+\gamma_t = \frac{E_{\text{curved, no dilation}}}{E_K} = f(r)
 $$
 
 The time dilation factor must exactly equal the spatial stretching factor $f(r)$ to maintain energy conservation. This is a profound result: time dilation is not just a geometric effect but a necessary consequence of energy conservation in curved spacetime.
