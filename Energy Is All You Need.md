@@ -580,7 +580,7 @@ This would produce subtle but potentially detectable differences in the redshift
 Our prediction of a dynamically decreasing cosmological constant can be tested through:
 
 **Redshift Evolution Test**:  
-The expansion history of the universe would differ from the standard $\Lambda$CDM model. Specifically, our theory predicts that the effective dark energy density evolves as:
+The expansion history of the universe would differ from the standard $\Lambda$ CDM model. Specifically, our theory predicts that the effective dark energy density evolves as:
 
 $$
 \rho_{\text{DE}}(z) = \rho_{\text{DE}, 0} \times (1 + z)^3
@@ -589,10 +589,10 @@ $$
 where $z$ is the redshift. This could be tested with next-generation baryon acoustic oscillation measurements and type Ia supernova observations.
 
 **Cosmic Microwave Background (CMB) Analysis**:  
-Our model predicts specific deviations in the CMB power spectrum compared to $\Lambda$CDM, particularly in the low-$\ell$ multipoles, which could be tested with future CMB missions.
+Our model predicts specific deviations in the CMB power spectrum compared to $\Lambda$ CDM, particularly in the low-$\ell$ multipoles, which could be tested with future CMB missions.
 
 **Structure Formation**:  
-The growth of cosmic structure would follow a different pattern in our model compared to $\Lambda$CDM, with potentially observable differences in the matter power spectrum at high redshifts.
+The growth of cosmic structure would follow a different pattern in our model compared to $\Lambda$ CDM, with potentially observable differences in the matter power spectrum at high redshifts.
 
 
 ---
