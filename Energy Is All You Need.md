@@ -687,14 +687,14 @@ where $\alpha_{\text{modified}}$ represents additional contributions from modifi
 
 We have demonstrated that gravitational phenomena can be derived from energy conservation principles without assuming the Einstein field equations or the Schwarzschild metric a priori. Our approach:
 
-1. Derives the gravitational time dilation factor $γₜ = 1/√(1-α)$ from energy conservation requirements
+1. Derives the gravitational time dilation factor $\gamma_t = 1/√(1-α)$ from energy conservation requirements
 2. Establishes a direct relationship between spacetime curvature and energy: $$α = 1-1/(1+E_extra/E_K)²$$
 3. Reproduces standard GR predictions for redshift, acceleration, and orbital dynamics
 4. Provides natural extensions to quantum regimes and extreme gravitational environments
 5. Resolves theoretical issues including singularities and the information paradox
 6. Suggests specific experimental tests that could validate our framework
 
-The central equation of our theory, $γₜ = 1/√(1-α(E))$, represents a unified description of gravitational phenomena that directly connects spacetime behavior to energy conservation. This perspective provides complementary insights to the geometric approach of General Relativity while suggesting natural pathways to address quantum gravity.
+The central equation of our theory, $\gamma_t = 1/√(1-α(E))$, represents a unified description of gravitational phenomena that directly connects spacetime behavior to energy conservation. This perspective provides complementary insights to the geometric approach of General Relativity while suggesting natural pathways to address quantum gravity.
 
 ### 8.2 Limitations of the Current Framework
 
