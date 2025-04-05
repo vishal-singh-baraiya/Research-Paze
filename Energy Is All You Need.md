@@ -594,7 +594,6 @@ Our model predicts specific deviations in the CMB power spectrum compared to $\L
 **Structure Formation**:  
 The growth of cosmic structure would follow a different pattern in our model compared to $\Lambda$CDM, with potentially observable differences in the matter power spectrum at high redshifts.
 
-Here is **Section 7: Discussion and Theoretical Implications** rendered in LaTeX, following the structure and math you provided:
 
 ---
 
