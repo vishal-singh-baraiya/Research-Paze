@@ -317,13 +317,13 @@ The local overfitting framework has implications beyond hallucinations:
 
 ## 10. Conclusion
 
-We have presented evidence that local overfitting—memorization of patterns in specific regions of training data while maintaining global generalization—serves as the primary mechanism underlying confident hallucinations in large language models. This framework unifies previously disparate explanations for hallucination phenomena and explains why standard machine learning approaches to overfitting mitigation fail in this context.
+We have presented evidence that local overfitting—memorization of patterns in specific regions of training data while maintaining global generalization-serves as the primary mechanism underlying confident hallucinations in large language models. This framework unifies previously disparate explanations for hallucination phenomena and explains why standard machine learning approaches to overfitting mitigation fail in this context.
 
 Our key contributions include:
 
 1. **Theoretical Framework**: The first formal mathematical distinction between local and global overfitting in language models, with proofs showing how local overfitting leads to confident hallucinations.
 
-2. **Empirical Validation**: Systematic evidence across multiple hallucination types—character counting, factual errors, and mathematical reasoning—demonstrating local overfitting patterns.
+2. **Empirical Validation**: Systematic evidence across multiple hallucination types-character counting, factual errors, and mathematical reasoning—demonstrating local overfitting patterns.
 
 3. **Solution Analysis**: Theoretical and empirical analysis of why current mitigation approaches fail, including regularization, RLHF, and RAG systems.
 
