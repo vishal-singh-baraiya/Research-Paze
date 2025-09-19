@@ -40,7 +40,7 @@ $$\text{err} \geq 2 \cdot \text{err}_{iiv} - \frac{|V|}{|E|} - \delta$$
 
 where $\text{err}_{iiv}$ is the binary classification error, $|V|$ and $|E|$ are valid and error example counts, and $\delta$ measures calibration error.
 
-However, this framework treats the underlying causes—statistical complexity, model limitations, and training incentives—as independent factors without exploring their fundamental relationship.
+However, this framework treats the underlying causes-statistical complexity, model limitations, and training incentives-as independent factors without exploring their fundamental relationship.
 
 ### 2.2 Overfitting and Memorization in Neural Networks
 
