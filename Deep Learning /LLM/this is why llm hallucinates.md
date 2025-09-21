@@ -1,6 +1,8 @@
 
 # Local Overfitting: The Primary Mechanism Behind Confident Hallucinations in Large Language Models
 ### Author: Vishal Singh Baraiya
+#### BS in Data Science and Apllications, IIT Madras, Chennai, TN, India
+#### Email: realvixhal@gmail.com
 
 **Abstract**
 
